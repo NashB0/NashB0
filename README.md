@@ -25,5 +25,8 @@ development team and validate the result — you always deal with one person.
 
 ## 🛠 Tools I work with
 
-QA & documentation: manual testing, incident reporting, step-by-step documentation, functional validation.
-Also familiar with: JIRA, HTML, CSS, and AI-assisted development for prototyping.
+**QA & documentation:** manual testing, incident detection and reporting, step-by-step documentation, functional validation.
+
+**Test automation:** Selenium, Playwright.
+
+**Technical:** JIRA, Python, HTML, CSS, JavaScript. AI-assisted development for prototyping.
